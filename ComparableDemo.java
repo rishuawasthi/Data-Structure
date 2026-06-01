@@ -25,9 +25,11 @@ public class ComparableDemo {
     System.out.println(s1.remove());
     
     for(int i:s1) { 
-        System.out.println(i);      
-
+        System.out.println(i+"  hello jii");           
+      
     }
+
+
 
 }
 }
