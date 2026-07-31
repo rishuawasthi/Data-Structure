@@ -37,6 +37,7 @@ This is for college assignment.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
 ## Recursion
@@ -49,4 +50,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishuawasthi/Data-Structure/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
