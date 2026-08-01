@@ -9,6 +9,7 @@ This is for college assignment.
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -41,6 +42,7 @@ This is for college assignment.
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +61,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
