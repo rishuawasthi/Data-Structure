@@ -10,6 +10,7 @@ This is for college assignment.
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -46,6 +47,7 @@ This is for college assignment.
 | [0461-hamming-distance](https://github.com/rishuawasthi/Data-Structure/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/rishuawasthi/Data-Structure/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
