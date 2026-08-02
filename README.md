@@ -45,6 +45,7 @@ This is for college assignment.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/rishuawasthi/Data-Structure/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/rishuawasthi/Data-Structure/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +68,16 @@ This is for college assignment.
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
