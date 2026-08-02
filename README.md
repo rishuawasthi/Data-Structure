@@ -11,6 +11,7 @@ This is for college assignment.
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -48,6 +49,7 @@ This is for college assignment.
 | [0476-number-complement](https://github.com/rishuawasthi/Data-Structure/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
