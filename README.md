@@ -6,6 +6,7 @@ This is for college assignment.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
@@ -41,6 +42,7 @@ This is for college assignment.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
@@ -73,6 +75,7 @@ This is for college assignment.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
 |  |
@@ -99,4 +102,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
