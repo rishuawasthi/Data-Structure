@@ -10,6 +10,7 @@ This is for college assignment.
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +69,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +87,16 @@ This is for college assignment.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
