@@ -106,4 +106,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
