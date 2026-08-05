@@ -76,6 +76,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
 |  |
@@ -110,4 +111,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
