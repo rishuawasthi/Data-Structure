@@ -79,6 +79,7 @@ This is for college assignment.
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
