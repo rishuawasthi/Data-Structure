@@ -87,6 +87,7 @@ This is for college assignment.
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
@@ -144,4 +145,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
