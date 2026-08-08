@@ -5,7 +5,7 @@ public:
 
         for(auto str:strs){
             int i=0;
-            while(str[i]==preString[i] && i<preString.length() && i<str.length()){
+            while(  i<preString.length() && i<str.length() && str[i]==preString[i] ){
                 i++;
             }
             preString=preString.substr(0,i);
