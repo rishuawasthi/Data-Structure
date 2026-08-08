@@ -79,6 +79,7 @@ This is for college assignment.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -87,6 +88,7 @@ This is for college assignment.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
@@ -149,4 +151,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
