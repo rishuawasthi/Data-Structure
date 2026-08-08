@@ -89,6 +89,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
@@ -125,6 +126,7 @@ This is for college assignment.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
