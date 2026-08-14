@@ -95,6 +95,7 @@ This is for college assignment.
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -113,6 +114,7 @@ This is for college assignment.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +174,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
