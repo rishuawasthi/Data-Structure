@@ -19,7 +19,6 @@ public:
     int pathSum(TreeNode* root,int& maxi){
         if(root==NULL)
         return 0;
-        maxi =max(maxi,root->val);
         
         int left =max(0,pathSum(root->left,maxi));
         int right=max(0,pathSum(root->right,maxi));
