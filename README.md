@@ -33,6 +33,7 @@ This is for college assignment.
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -43,6 +44,7 @@ This is for college assignment.
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -60,6 +62,7 @@ This is for college assignment.
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishuawasthi/Data-Structure/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
@@ -95,6 +98,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 ## String
@@ -194,4 +198,8 @@ This is for college assignment.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
