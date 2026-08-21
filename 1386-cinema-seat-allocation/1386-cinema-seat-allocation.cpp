@@ -5,7 +5,6 @@ public:
     }
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
         map<int, vector<int>> mp;
-        int len = reservedSeats.size();
         for (auto it : reservedSeats) {
             mp[it[0]].push_back(it[1]);
         }
