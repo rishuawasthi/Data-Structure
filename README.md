@@ -132,6 +132,7 @@ This is for college assignment.
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishuawasthi/Data-Structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
