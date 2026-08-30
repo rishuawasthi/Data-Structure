@@ -103,6 +103,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ This is for college assignment.
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -152,6 +154,7 @@ This is for college assignment.
 | ------- |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 ## Minimax
 |  |
 | ------- |
@@ -231,4 +234,24 @@ This is for college assignment.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
