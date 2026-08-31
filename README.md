@@ -126,6 +126,7 @@ This is for college assignment.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
@@ -182,6 +183,7 @@ This is for college assignment.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
