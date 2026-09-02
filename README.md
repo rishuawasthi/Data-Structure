@@ -21,6 +21,7 @@ This is for college assignment.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rishuawasthi/Data-Structure/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This is for college assignment.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishuawasthi/Data-Structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
