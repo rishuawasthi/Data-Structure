@@ -110,6 +110,7 @@ This is for college assignment.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -132,6 +133,7 @@ This is for college assignment.
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -219,6 +221,7 @@ This is for college assignment.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
