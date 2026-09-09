@@ -140,6 +140,7 @@ This is for college assignment.
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/rishuawasthi/Data-Structure/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
@@ -166,6 +167,7 @@ This is for college assignment.
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
@@ -272,5 +274,6 @@ This is for college assignment.
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
