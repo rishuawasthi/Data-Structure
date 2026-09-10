@@ -11,6 +11,7 @@ This is for college assignment.
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
@@ -141,6 +142,7 @@ This is for college assignment.
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/rishuawasthi/Data-Structure/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
@@ -158,6 +160,7 @@ This is for college assignment.
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
@@ -276,4 +279,12 @@ This is for college assignment.
 | ------- |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
