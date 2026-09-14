@@ -14,6 +14,7 @@ This is for college assignment.
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/rishuawasthi/Data-Structure/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
@@ -293,4 +294,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rishuawasthi/Data-Structure/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
