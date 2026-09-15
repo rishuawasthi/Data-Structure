@@ -8,6 +8,7 @@ This is for college assignment.
 | ------- |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
@@ -164,6 +165,7 @@ This is for college assignment.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
@@ -208,6 +210,7 @@ This is for college assignment.
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 ## Prefix Sum
@@ -298,4 +301,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishuawasthi/Data-Structure/tree/master/0836-rectangle-overlap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
