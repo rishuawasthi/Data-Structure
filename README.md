@@ -202,10 +202,12 @@ This is for college assignment.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
