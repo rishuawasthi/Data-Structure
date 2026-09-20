@@ -131,6 +131,7 @@ This is for college assignment.
 | [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ This is for college assignment.
 | ------- |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
