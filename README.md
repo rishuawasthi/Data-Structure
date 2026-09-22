@@ -143,6 +143,7 @@ This is for college assignment.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rishuawasthi/Data-Structure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rishuawasthi/Data-Structure/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/rishuawasthi/Data-Structure/tree/master/0228-summary-ranges) |
@@ -244,6 +245,7 @@ This is for college assignment.
 | [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rishuawasthi/Data-Structure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rishuawasthi/Data-Structure/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
