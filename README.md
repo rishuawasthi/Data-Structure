@@ -114,6 +114,7 @@ This is for college assignment.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -138,6 +139,7 @@ This is for college assignment.
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -214,6 +216,7 @@ This is for college assignment.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishuawasthi/Data-Structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
@@ -266,6 +269,7 @@ This is for college assignment.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 ## DP on Trees
@@ -313,4 +317,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
