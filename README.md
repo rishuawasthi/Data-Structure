@@ -132,6 +132,7 @@ This is for college assignment.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishuawasthi/Data-Structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -281,6 +282,7 @@ This is for college assignment.
 | [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishuawasthi/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishuawasthi/Data-Structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
@@ -330,4 +332,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishuawasthi/Data-Structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
