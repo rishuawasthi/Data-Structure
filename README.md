@@ -157,6 +157,7 @@ This is for college assignment.
 | [0238-product-of-array-except-self](https://github.com/rishuawasthi/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
@@ -180,6 +181,7 @@ This is for college assignment.
 | [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
@@ -192,6 +194,7 @@ This is for college assignment.
 | ------- |
 | [0179-largest-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
