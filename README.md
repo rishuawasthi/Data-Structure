@@ -19,6 +19,7 @@ This is for college assignment.
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -168,6 +169,7 @@ This is for college assignment.
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rishuawasthi/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishuawasthi/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
@@ -187,6 +189,7 @@ This is for college assignment.
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rishuawasthi/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishuawasthi/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -315,6 +318,7 @@ This is for college assignment.
 | ------- |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Design
 |  |
 | ------- |
