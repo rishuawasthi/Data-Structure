@@ -28,6 +28,7 @@ This is for college assignment.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/rishuawasthi/Data-Structure/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This is for college assignment.
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishuawasthi/Data-Structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/rishuawasthi/Data-Structure/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
