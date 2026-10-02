@@ -134,6 +134,7 @@ This is for college assignment.
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishuawasthi/Data-Structure/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishuawasthi/Data-Structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -190,6 +191,7 @@ This is for college assignment.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishuawasthi/Data-Structure/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rishuawasthi/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -325,6 +327,7 @@ This is for college assignment.
 | ------- |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishuawasthi/Data-Structure/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Design
 |  |
