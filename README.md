@@ -19,6 +19,7 @@ This is for college assignment.
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
+| [1641-count-sorted-vowel-strings](https://github.com/rishuawasthi/Data-Structure/tree/master/1641-count-sorted-vowel-strings) |
 | [2396-strictly-palindromic-number](https://github.com/rishuawasthi/Data-Structure/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -125,6 +126,7 @@ This is for college assignment.
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/rishuawasthi/Data-Structure/tree/master/1641-count-sorted-vowel-strings) |
 ## String
 |  |
 | ------- |
@@ -357,4 +359,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rishuawasthi/Data-Structure/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/rishuawasthi/Data-Structure/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
