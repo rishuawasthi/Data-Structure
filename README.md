@@ -19,6 +19,7 @@ This is for college assignment.
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishuawasthi/Data-Structure/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/1486-xor-operation-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/rishuawasthi/Data-Structure/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rishuawasthi/Data-Structure/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -242,6 +243,7 @@ This is for college assignment.
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishuawasthi/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/rishuawasthi/Data-Structure/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,4 +350,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishuawasthi/Data-Structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/rishuawasthi/Data-Structure/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
