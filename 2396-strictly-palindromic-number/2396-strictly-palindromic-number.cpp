@@ -1,7 +1,9 @@
 class Solution {
 public:
     bool isStrictlyPalindromic(int n) {
-        bitset<8> binaryRepresentation(n);
-        return false;
+        if (n == 1 || n == 3 || n == 0)
+            return true;
+        else
+            return false;
     }
 };
