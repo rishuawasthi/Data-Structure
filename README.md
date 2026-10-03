@@ -169,6 +169,7 @@ This is for college assignment.
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rishuawasthi/Data-Structure/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/rishuawasthi/Data-Structure/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
@@ -279,6 +280,7 @@ This is for college assignment.
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishuawasthi/Data-Structure/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rishuawasthi/Data-Structure/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/rishuawasthi/Data-Structure/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/rishuawasthi/Data-Structure/tree/master/1386-cinema-seat-allocation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
