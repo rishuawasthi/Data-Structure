@@ -164,6 +164,7 @@ This is for college assignment.
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/rishuawasthi/Data-Structure/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rishuawasthi/Data-Structure/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/rishuawasthi/Data-Structure/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -297,6 +298,7 @@ This is for college assignment.
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishuawasthi/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -316,6 +318,7 @@ This is for college assignment.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -372,4 +375,16 @@ This is for college assignment.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
