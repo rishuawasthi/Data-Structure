@@ -154,6 +154,7 @@ This is for college assignment.
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -273,6 +274,7 @@ This is for college assignment.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -388,4 +390,8 @@ This is for college assignment.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
