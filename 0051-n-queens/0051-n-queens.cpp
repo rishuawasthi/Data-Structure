@@ -2,7 +2,7 @@ class Solution {
 
 
 public:
-    bool isSafe(int col,int row,vector <string> board,int n){
+    bool isSafe(int col,int row,vector <string>& board,int& n){
         int r=row;
         int c=col;
         while(col>=0 && row>=0){
@@ -33,7 +33,7 @@ public:
         return true;
     }
 
-    void checkQueens(int col,vector<vector<string>>& ans,vector <string>& board,int n){
+    void checkQueens(int col,vector<vector<string>>& ans,vector <string>& board,int& n){
         if(col==n){
             ans.push_back(board);
             return;
