@@ -152,6 +152,7 @@ This is for college assignment.
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishuawasthi/Data-Structure/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/rishuawasthi/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
@@ -194,6 +195,7 @@ This is for college assignment.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishuawasthi/Data-Structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/rishuawasthi/Data-Structure/tree/master/0409-longest-palindrome) |
@@ -274,6 +276,7 @@ This is for college assignment.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -393,5 +396,14 @@ This is for college assignment.
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
