@@ -9,6 +9,7 @@ This is for college assignment.
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rishuawasthi/Data-Structure/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishuawasthi/Data-Structure/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishuawasthi/Data-Structure/tree/master/0342-power-of-four) |
@@ -35,6 +36,7 @@ This is for college assignment.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rishuawasthi/Data-Structure/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishuawasthi/Data-Structure/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -164,6 +166,7 @@ This is for college assignment.
 | [0162-find-peak-element](https://github.com/rishuawasthi/Data-Structure/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishuawasthi/Data-Structure/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/rishuawasthi/Data-Structure/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rishuawasthi/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rishuawasthi/Data-Structure/tree/master/0239-sliding-window-maximum) |
@@ -271,6 +274,7 @@ This is for college assignment.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishuawasthi/Data-Structure/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishuawasthi/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
@@ -406,4 +410,16 @@ This is for college assignment.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishuawasthi/Data-Structure/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
