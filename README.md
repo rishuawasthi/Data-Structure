@@ -128,6 +128,7 @@ This is for college assignment.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishuawasthi/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishuawasthi/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/rishuawasthi/Data-Structure/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/rishuawasthi/Data-Structure/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rishuawasthi/Data-Structure/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ This is for college assignment.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishuawasthi/Data-Structure/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/rishuawasthi/Data-Structure/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/rishuawasthi/Data-Structure/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/rishuawasthi/Data-Structure/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishuawasthi/Data-Structure/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rishuawasthi/Data-Structure/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -282,6 +284,7 @@ This is for college assignment.
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishuawasthi/Data-Structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishuawasthi/Data-Structure/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/rishuawasthi/Data-Structure/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishuawasthi/Data-Structure/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
